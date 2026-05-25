@@ -1,0 +1,35 @@
+# Secrets
+ghp_*
+*.token
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.gitconfig
+.wsl-config
+
+# Folders
+.cache/
+.config/
+.npm/
+.nvm/
+.yarn/
+.vscode-server/
+.local/
+.landscape/
+.copilot/
+.dotnet/
+node_modules/
+
+# Files
+.wget-hsts
+.yarnrc
+.sudo_as_admin_successful
+.motd_shown
+yarn.lock
